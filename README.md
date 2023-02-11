@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- Full Stack Developer | React.js, Java, SpringBoot, Python
+- 🤓 Graduate from the University of Minnesota - Duluth | 2017-2021
+- 🏋️‍♂️Fellow Gym Rat | SBD | 335lbs, 205lbs, 395lbs
+- ☕ Ex Starbucks Barista
+- 👨‍💻 Currently learning Next.js
+
+
 <!--
 **darianthao/darianthao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
